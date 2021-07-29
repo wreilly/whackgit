@@ -1,3 +1,5 @@
+// WR__ run the app:  $ DEBUG=whackgit:* npm start
+
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
